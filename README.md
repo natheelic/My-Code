@@ -1,3 +1,3 @@
 # My-Code
 
-## Licensed under the Apache License, Version 3.0 (the "License")
+## Licensed under the Open Software License ("OSL") v 3.0
